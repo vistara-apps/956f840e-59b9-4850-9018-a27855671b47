@@ -5,7 +5,11 @@ import { Providers } from './providers';
 export const metadata: Metadata = {
   title: 'RemixAi - AI Ad Variants & Auto-Post to Social',
   description: 'Spin AI Ad Variants & Auto-Post to Social in Minutes',
-  viewport: 'width=device-width, initial-scale=1',
+};
+
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
 };
 
 export default function RootLayout({
