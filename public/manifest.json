@@ -1,0 +1,14 @@
+{
+  "name": "RemixAi",
+  "description": "RemixAi is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://956f840e-59b9-4850-9018-a27855671b47.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "RemixAi",
+      "description": "RemixAi is a Base Mini App built with Zara.",
+      "url": "https://956f840e-59b9-4850-9018-a27855671b47.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

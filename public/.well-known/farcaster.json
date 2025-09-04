@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "RemixAi",
+    "subtitle": "Built with Zara",
+    "description": "RemixAi is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://956f840e59b948509018a27855671b47-aw3a-2yga94twi-vistara.vercel.app",
+    "splashImageUrl": "https://956f840e59b948509018a27855671b47-aw3a-2yga94twi-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://956f840e59b948509018a27855671b47-aw3a-2yga94twi-vistara.vercel.app/image.png",
+    "tagline": "RemixAi",
+    "screenshotUrls": [
+      "https://956f840e59b948509018a27855671b47-aw3a-2yga94twi-vistara.vercel.app/screenshot.png",
+      "https://956f840e59b948509018a27855671b47-aw3a-2yga94twi-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://956f840e59b948509018a27855671b47-aw3a-2yga94twi-vistara.vercel.app/api/webhook"
+  }
+}
